@@ -1,5 +1,5 @@
 ### This py file is from DiadFit python package (Wieser and DeVitre, 2023; https://github.com/PennyWieser/DiadFit),
-### added to FIstretch to avoid dependencies. A preprint of DiadFit is available at https://eartharxiv.org/repository/view/5236/ 
+### added to RelaxiFI to avoid dependencies. A preprint of DiadFit is available at https://eartharxiv.org/repository/view/5236/ 
 
 import numpy as np
 import matplotlib.pyplot as plt

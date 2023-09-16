@@ -5,8 +5,8 @@ import math
 from scipy.optimize import newton
 import warnings
 
-from FIstretch.density_depth_crustal_profiles import *
-from FIstretch.EOS_CO2 import *
+from RelaxiFI.density_depth_crustal_profiles import *
+from RelaxiFI.EOS_CO2 import *
 
 ## Functions to find P when the user chooses to start with a depth. It requires input of a crustal model
 
