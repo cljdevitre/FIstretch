@@ -16,8 +16,7 @@ RelaxiFI is an open-source python3 package designed to model the stretching of C
 
    Introduction <introduction>
    Installation <installation>
-   Available Fucntions <available_functions>
-   Change Log <changelog>
+   Available Functions <available_functions>
 
 .. toctree::
    :maxdepth: 1
@@ -27,8 +26,6 @@ RelaxiFI is an open-source python3 package designed to model the stretching of C
    Examples/Fogo_wanamaker_model_example
 
 .. toctree::
-   :hidden:
-   :titlesonly:
    :maxdepth: 1
    :caption: Meta
 
