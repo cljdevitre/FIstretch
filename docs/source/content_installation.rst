@@ -28,7 +28,7 @@ You then need to import RelaxiFI into the script you are running code in. In all
 
 This means any time you want to call a function from RelaxiFI, you do relax.function_name.
 
-
+NOTE: Coolprop (http://www.coolprop.org/) available at PyPI (https://pypi.org/project/CoolProp/) is REQUIRED to perform calculations using the EOS of Span and Wagner (1996) in this package. Make sure to install it using pip install CoolProp or !pip install CoolProp (if from a jupyter notebook)
 
 Updating
 ========
