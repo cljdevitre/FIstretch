@@ -2,19 +2,10 @@
 Changelog Archive
 #################
 
-This document contains all changes made to Uberspace 7.
+This is the Changelog Archive section. 
 
-.. include:: includes/hotfix-version.rst
+.. toctree::
+   :maxdepth: 1
+   :glob:
 
-{# add/edit files in source/changelog to generate new changelog entries #}
-{% for entry in changelog_entries %}
-
-----
-
-.. _v{{ entry.version }}:
-
-{{ entry.title }}
-{% for n in range(entry.title|length) %}*{% endfor %}
-
-{{ entry.text }}
-{% endfor %}
+   changelog/changelog_*.rst

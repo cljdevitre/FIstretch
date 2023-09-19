@@ -7,19 +7,8 @@ RelaxiFI is an open-source python3 package designed to model the stretching of C
 ----
 
 .. rst-class:: noclear
-.. tip:: Check out our `Preprint <https://eartharxiv.org/repository/view/5236/>`_for more real-life applications_!
+.. tip:: Check out our `Preprint <https://eartharxiv.org/repository/view/5236/>`_ for more real-life applications!
 
-#########
-Changelog
-#########
-
-Latest Version: **{{ newest_changelog_entry.version }}** ({{ newest_changelog_entry.date }})
-
-{{ newest_changelog_entry.text }}
-
-For more information see the :doc:`full changelog <changelog>`.
-
-.. include:: includes/hotfix-version.rst
 
 .. toctree::
    :maxdepth: 1
