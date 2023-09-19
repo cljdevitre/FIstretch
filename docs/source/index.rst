@@ -29,5 +29,5 @@ RelaxiFI is an open-source python3 package designed to model the stretching of C
    :maxdepth: 2
    :caption: Meta
 
-   Changelog <ChangeLog>
+   Changelog Latest <Meta_latestlog>
    Changelog Archive <changelog_archive>

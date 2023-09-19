@@ -2,10 +2,10 @@
 Changelog Archive
 #################
 
-This is the Changelog Archive section. 
+This is the Changelog Archive section. Test
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   changelog/changelog_*.rst
+   changelog/*.rst
