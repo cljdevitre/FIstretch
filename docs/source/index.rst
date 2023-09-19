@@ -13,8 +13,7 @@ Welcome to RelaxiFIs documentation!
    introduction
    installation
    available_functions
-   Worked examples
-   ChangeLog
+   changelog
 
 .. toctree::
    :maxdepth: 2
@@ -24,15 +23,5 @@ Welcome to RelaxiFIs documentation!
    Examples/Fogo_wanamaker_model_example
 
    %
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 

@@ -1,6 +1,6 @@
-========================
+########################
 Available Functions
-========================
+########################
 
 Calculating entrapment depth, FI pressure and CO2 density
 ======================

@@ -1,9 +1,16 @@
-==============================
+#############################
 Introduction and Citation
-==============================
+#############################
 
 Welcome to RelaxiFI - An Open-Source python3 tool for modelling stretching of CO2-dominated fluid inclusions during olivine stress relaxation
 
+RelaxiFI is the right tool for you if you:
+
+* study CO2-dominated fluid inclusions and use them for barometry in water-poor volcanic systems
+* study said FI in olivine hosts (RelaxiFI does not currently support other minerals, sorry!)
+* want to model the stretching of said FI during ascent
+* want to model the stretching of said FI during stalling 
+* want to model the stretching of said FI during quenching
 
 This tool is currently in progress, with planned submission in the near future.
 
