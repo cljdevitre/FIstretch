@@ -5,7 +5,7 @@ Changelog Archive
 This is the Changelog Archive section. 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    changelog/changelog_*.rst
