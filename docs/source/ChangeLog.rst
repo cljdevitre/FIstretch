@@ -1,8 +1,21 @@
+#########
+Changelog
+#########
 
-================
-Change Log
-================
-September 18th, 2023 - Charlotte Devitre
-__version__='0.0.1'
+Below you can see the 5 most recent changes to RelaxiFI. For older changes,
+please refer to the :doc:`Changelog Archive <changelog_archive>`.
 
-Changelog started September 18th, 2023, when first releasing RelaxiFI
+.. include:: includes/hotfix-version.rst
+
+{# add/edit files in source/changelog to generate new changelog entries #}
+{% for entry in changelog_entries[:5] %}
+
+----
+
+.. _v{{ entry.version }}_short:
+
+{{ entry.title }}
+{% for n in range(entry.title|length) %}*{% endfor %}
+
+{{ entry.text }}
+{% endfor %}
