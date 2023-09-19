@@ -1,0 +1,32 @@
+#################
+2023-09-19 v0.0.4
+#################
+
+This is the first entry to this Changelog, the documentation for RelaxiFI was created.
+
+Added
+-----
+
+.. - We added ``sd`` as a `sed alternative <https://github.com/chmln/sd>`_.
+.. - We added ``dust`` as a `du alternative <https://github.com/bootandy/dust>`_.
+.. - We added ``broot`` as a `ls alternative <https://dystroy.org/broot/>`_.
+.. - We added ``gopass``.
+.. - We added ``unbound-devel`` so apps like ``luarocks`` can compile against ``unbound-libs``.
+
+Changed
+-------
+
+.. - We fixed a bug in the ``sqlite`` installation, so the PHP-FPM uses the latest available version.
+.. - We updated the ``fish-shell`` to version 3.
+
+Removed
+-------
+
+.. - We now removed ``Node.JS 12 + 14`` completely after a process of deprecation.
+
+Deprecations
+------------
+
+.. - ``Node.JS 16`` will be deprecated from 04.09.2023 on and removed one month later.
+.. - ``Node.JS 19`` will be deprecated from 04.09.2023 on and removed one month later.
+.. - ``Ruby 2.7`` will be deprecated from 04.09.2023 on and removed one month later.

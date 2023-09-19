@@ -1,3 +1,7 @@
+#################
+2023-09-19 v0.0.4
+#################
+
 This is the first entry to this Changelog, the documentation for RelaxiFI was created.
 
 Added
