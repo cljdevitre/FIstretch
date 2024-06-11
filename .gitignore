@@ -7,8 +7,3 @@ ipynb_checkpoints
 /build/
 *.orig
 *.ini
-/Testing/*
-/docs/Image_examples/*
-/docs/Data_Folder/*
-/old/
-/docs/Old/
